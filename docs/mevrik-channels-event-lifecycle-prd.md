@@ -1,4 +1,4 @@
-# Mevrik Channels Event Lifecycle - Product Requirements Document
+# Mevrik Channels Event Lifecycle
 
 ## Document Information
 - **Version**: 1.0

@@ -1,4 +1,4 @@
-# Mevrik Channels Events - Product Requirements Document
+# Mevrik Channels Events
 
 ## Document Information
 - **Version**: 1.0
